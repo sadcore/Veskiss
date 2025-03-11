@@ -1,7 +1,7 @@
 #  PC Setup for Windows 11
-A research and evidence based approach to optimizing your PC, configuration and setup. Recommendations found in this guide are based on curated reputable [technical references](CONTENT/TECHNICAL%20REFERENCES/), and personal [research]([https://github.com/djdallmann/GamingPCSetup)).
+A research and evidence based approach to optimizing your PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references and personal research.
 
- * Standardize your gaming PC builds
+ * Standardize your PC builds
  * Peripheral selection, configuration and maintenance
  * Troubleshooting and isolating unusual performance behavior
  * A customizable [PowerShell Desired State Configuration (DSC)](CONTENT/DOCS/PSDSC/README.md) to help ensure your settings always stay the same and quickly verified with a simple command.
