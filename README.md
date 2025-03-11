@@ -11,7 +11,7 @@ If you do use this or redistribute this in any way, please give due credit.
 ## Steps
 [1. BIOS Configuration](Instructions/BIOS.md)
 
-[2. Download and Install Windows](CONTENT/DOCS/INSTALLWIN/README.md)
+[2. Download and Install Windows](Docs/bios.md)
 
 [3. Windows Initial Post Installation Steps](CONTENT/DOCS/POSTINSTALL/README.md)
 
