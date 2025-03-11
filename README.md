@@ -1,5 +1,5 @@
-# Gaming PC Setup for Windows 11
-A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable [technical references](CONTENT/TECHNICAL%20REFERENCES/), and personal [research](CONTENT/RESEARCH/README.md).
+#  PC Setup for Windows 11
+A research and evidence based approach to optimizing your PC, configuration and setup. Recommendations found in this guide are based on curated reputable [technical references](CONTENT/TECHNICAL%20REFERENCES/), and personal [research]([https://github.com/djdallmann/GamingPCSetup)).
 
  * Standardize your gaming PC builds
  * Peripheral selection, configuration and maintenance
