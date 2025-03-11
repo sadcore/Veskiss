@@ -9,9 +9,9 @@ A research and evidence based approach to optimizing your PC, configuration and 
 If you do use this or redistribute this in any way, please give due credit.
 
 ## Steps
-[1. BIOS Configuration](Instructions/BIOS.md)
+[1. BIOS Configuration](Docs/bios.md)
 
-[2. Download and Install Windows](Docs/bios.md)
+[2. Download and Install Windows]()
 
 [3. Windows Initial Post Installation Steps](CONTENT/DOCS/POSTINSTALL/README.md)
 
